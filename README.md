@@ -1,2 +1,2 @@
 # MedRec
-A Decentralized framework integrating blockchain and IPFS for medical data management. 
+A Decentralized D-App integrating blockchain and IPFS for medical data management. 
